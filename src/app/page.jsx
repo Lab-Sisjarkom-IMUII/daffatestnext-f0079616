@@ -7,7 +7,7 @@ export default function Home() {
         <div className="page-content">
           {/* IM-UII Header */}
           <div className="page-header">
-            <h1 className="page-title">IM-UII CLI Daff adsfdfafdsafdsa</h1>
+            <h1 className="page-title">IM-UII CLI Daff adsfdfafdsafdsaca sckj sajc</h1>
             <p className="page-subtitle">Welcome to Your Project</p>
           </div>
 
