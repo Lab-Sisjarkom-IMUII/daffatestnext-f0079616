@@ -1,0 +1,11 @@
+{
+  "name": "daffatestnext",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "daffatestnext",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_cecbfd7f533239dc87e3af36fa48ae4308321955dfaa89a9c66ed665f9bb525d",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/daffatestnext-f0079616.git"
+}
